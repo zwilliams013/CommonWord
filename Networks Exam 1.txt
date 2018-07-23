@@ -1,0 +1,11 @@
+﻿1. OSI Model TDCP/IP Theory Q
+
+2,3,4 Problems about performance( efficieny
+		sliding windows, window sizez, progpogation, transmission, total delays, 
+		bandwitdth delay product, selective repeat, total time,
+	 	transmission times
+5.Switches and hops (how they operate and work, how they isolate traffic)
+6 Sockets (like the porgramming assignment)
+
+
+Answers are not complicated, usually simple
